@@ -1,0 +1,211 @@
+.
+├── app
+│   ├── Console
+│   ├── Http
+│   ├── Models
+│   ├── Notifications
+│   ├── Providers
+│   └── Services
+├── artisan
+├── bootstrap
+│   ├── app.php
+│   ├── cache
+│   └── providers.php
+├── compliance
+│   ├── eu-regulations
+│   └── gpsr
+├── composer.json
+├── composer.lock
+├── config
+│   ├── app.php
+│   ├── auth.php
+│   ├── cache.php
+│   ├── database.php
+│   ├── filesystems.php
+│   ├── logging.php
+│   ├── mail.php
+│   ├── payment.php
+│   ├── queue.php
+│   ├── security.php
+│   ├── seo.php
+│   ├── services.php
+│   ├── session.php
+│   └── shipping.php
+├── database
+│   ├── backups
+│   ├── database.sqlite
+│   ├── factories
+│   ├── migrations
+│   └── seeders
+├── laravel_tree.txt
+├── node_modules
+│   ├── @ampproject
+│   ├── @esbuild
+│   ├── @isaacs
+│   ├── @jridgewell
+│   ├── @rollup
+│   ├── @tailwindcss
+│   ├── @types
+│   ├── ansi-regex
+│   ├── ansi-styles
+│   ├── asynckit
+│   ├── autoprefixer
+│   ├── axios
+│   ├── browserslist
+│   ├── call-bind-apply-helpers
+│   ├── caniuse-lite
+│   ├── chalk
+│   ├── chownr
+│   ├── cliui
+│   ├── color-convert
+│   ├── color-name
+│   ├── combined-stream
+│   ├── concurrently
+│   ├── delayed-stream
+│   ├── detect-libc
+│   ├── dunder-proto
+│   ├── electron-to-chromium
+│   ├── emoji-regex
+│   ├── enhanced-resolve
+│   ├── es-define-property
+│   ├── es-errors
+│   ├── es-object-atoms
+│   ├── es-set-tostringtag
+│   ├── esbuild
+│   ├── escalade
+│   ├── fdir
+│   ├── follow-redirects
+│   ├── form-data
+│   ├── fraction.js
+│   ├── fsevents
+│   ├── function-bind
+│   ├── get-caller-file
+│   ├── get-intrinsic
+│   ├── get-proto
+│   ├── gopd
+│   ├── graceful-fs
+│   ├── has-flag
+│   ├── has-symbols
+│   ├── has-tostringtag
+│   ├── hasown
+│   ├── is-fullwidth-code-point
+│   ├── jiti
+│   ├── laravel-vite-plugin
+│   ├── lightningcss
+│   ├── lightningcss-darwin-arm64
+│   ├── lodash
+│   ├── magic-string
+│   ├── math-intrinsics
+│   ├── mime-db
+│   ├── mime-types
+│   ├── minipass
+│   ├── minizlib
+│   ├── mkdirp
+│   ├── nanoid
+│   ├── node-releases
+│   ├── normalize-range
+│   ├── picocolors
+│   ├── picomatch
+│   ├── postcss
+│   ├── postcss-value-parser
+│   ├── proxy-from-env
+│   ├── require-directory
+│   ├── rollup
+│   ├── rxjs
+│   ├── shell-quote
+│   ├── source-map-js
+│   ├── string-width
+│   ├── strip-ansi
+│   ├── supports-color
+│   ├── tailwindcss
+│   ├── tapable
+│   ├── tar
+│   ├── tinyglobby
+│   ├── tree-kill
+│   ├── tslib
+│   ├── update-browserslist-db
+│   ├── vite
+│   ├── vite-plugin-full-reload
+│   ├── wrap-ansi
+│   ├── y18n
+│   ├── yallist
+│   ├── yargs
+│   └── yargs-parser
+├── package-lock.json
+├── package.json
+├── phpunit.xml
+├── public
+│   ├── css
+│   ├── favicon.ico
+│   ├── images
+│   ├── index.php
+│   ├── js
+│   ├── robots.txt
+│   ├── sitemap.xml
+│   └── storage -> /Users/macbookpro/ecommerce-website/storage/app/public
+├── README.md
+├── resources
+│   ├── css
+│   ├── js
+│   ├── lang
+│   └── views
+├── routes
+│   ├── admin.php
+│   ├── api.php
+│   ├── channels.php
+│   ├── console.php
+│   ├── customer.php
+│   └── web.php
+├── storage
+│   ├── app
+│   ├── backups
+│   ├── framework
+│   └── logs
+├── tests
+│   ├── Feature
+│   ├── TestCase.php
+│   └── Unit
+├── vendor
+│   ├── autoload.php
+│   ├── bin
+│   ├── brick
+│   ├── carbonphp
+│   ├── composer
+│   ├── dflydev
+│   ├── doctrine
+│   ├── dragonmantank
+│   ├── egulias
+│   ├── fakerphp
+│   ├── filp
+│   ├── fruitcake
+│   ├── graham-campbell
+│   ├── guzzlehttp
+│   ├── hamcrest
+│   ├── laravel
+│   ├── league
+│   ├── mockery
+│   ├── monolog
+│   ├── myclabs
+│   ├── nesbot
+│   ├── nette
+│   ├── nikic
+│   ├── nunomaduro
+│   ├── overtrue
+│   ├── phar-io
+│   ├── phpoption
+│   ├── phpunit
+│   ├── psr
+│   ├── psy
+│   ├── ralouphie
+│   ├── ramsey
+│   ├── sebastian
+│   ├── staabm
+│   ├── symfony
+│   ├── theseer
+│   ├── tijsverkoyen
+│   ├── vlucas
+│   ├── voku
+│   └── webmozart
+└── vite.config.js
+
+171 directories, 38 files
